@@ -1,0 +1,4 @@
+%d: Used for formatting and printing integers (e.g., int).
+%f: Used for formatting and printing floating-point numbers (e.g., float, double).%c: Used for formatting and printing single characters.
+%s: Used for formatting and printing strings (arrays of characters).
+%x or %X: Used for formatting and printing integers in hexadecimal (base 16) format.
