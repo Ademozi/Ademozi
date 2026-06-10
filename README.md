@@ -36,20 +36,11 @@ I'm a computer science student, web developer, and aspiring software engineer. I
 
 
 ### 🌐 Web Developement & Frameworks
-  [![Languages](https://skillicons.dev/icons?i=html,css,nodejs,express,react,vite,springboot)](https://skillicons.dev)
+  [![Languages](https://skillicons.dev/icons?i=html,css,nodejs,express,react,vite,spring)](https://skillicons.dev)
 
-
-### 🌐 Frameworks & Web Ecosystems
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>&nbsp;
-</p>
 
 ### 🗄️ Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
-</p>
+[![Languages](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
 
 ### 🐧 Systems & DevOps
 <p align="left">
