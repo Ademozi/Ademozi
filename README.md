@@ -35,9 +35,8 @@ I'm a computer science student, web developer, and aspiring software engineer. I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>&nbsp;
+  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>&nbsp;](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/>&nbsp;
-https://camo.githubusercontent.com/f73238b60f512814cb70055169223379eeba7f024d9076a3f51410dae43a04bf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e2c6a6176612c6a732c6370702c632c626173682c72
 </p>
 
 ### 🌐 Web Developement
