@@ -38,6 +38,9 @@ I'm a computer science student, web developer, and aspiring software engineer. I
 </p>
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+## 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=java,js,python,c,html,css)](https://skillicons.dev)
+
 
 ### 🌐 Web Developement
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>&nbsp;
