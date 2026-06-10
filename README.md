@@ -31,12 +31,12 @@ I'm a computer science student, web developer, and aspiring software engineer. I
 ## 🛠️ Technologies & Tools
 
 
-## 💻 Languages
+### 💻 Languages
 [![Languages](https://skillicons.dev/icons?i=java,js,python,c,cpp,r)](https://skillicons.dev)
 
 
-### 🌐 Web Developement
-  [![Languages](https://skillicons.dev/icons?i=html,css,nodejs,express,react,vite)](https://skillicons.dev)
+### 🌐 Web Developement & Frameworks
+  [![Languages](https://skillicons.dev/icons?i=html,css,nodejs,express,react,vite,springboot)](https://skillicons.dev)
 
 
 ### 🌐 Frameworks & Web Ecosystems
