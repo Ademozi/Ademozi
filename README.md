@@ -36,7 +36,7 @@ I'm a computer science student, web developer, and aspiring software engineer. I
 
 
 ### 🌐 Web Developement
-  [![Languages](https://skillicons.dev/icons?i=java,js,python,c,cpp,r)](https://skillicons.dev)
+  [![Languages](https://skillicons.dev/icons?i=html,css,nodejs,express,react,vite)](https://skillicons.dev)
 
 
 ### 🌐 Frameworks & Web Ecosystems
