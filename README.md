@@ -42,12 +42,9 @@ I'm a computer science student, web developer, and aspiring software engineer. I
 ### 🗄️ Databases
 [![Languages](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
 
-### 🐧 Systems & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-</p>
+### 🐧 Systems & Tools
+[![Languages](https://skillicons.dev/icons?i=linux,git,postman)](https://skillicons.dev)
+
 
 ---
 
