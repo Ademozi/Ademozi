@@ -1,45 +1,46 @@
-## Hi there, I'm Adem Lahlou Teffah 👋
-
 <p align="left">
-  <strong>💻 Backend Developer | ☕ Java & Spring Boot Enthusiast | 🐧 Linux & Systems Learner</strong>
+  <strong>💻 Full-Stack & Backend Developer | ☕ Java & Spring Boot Enthusiast | 🐧 Linux & Systems Learner</strong>
 </p>
 
 <p align="left">
-  📍 Based in Algeria | 🚀 Passionate about architecture, scalable systems, and clean code.
+  📍 Based in Algeria | 🚀 Passionate about software architecture, building scalable web systems, and clean code.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a computer science student and an aspiring software engineer. I love exploring how things work under the hood—from complex backend architectures and database sync strategies to Linux system recovery and low-level parsing mechanics.
+I'm a computer science student, web developer, and aspiring software engineer. I love building responsive web platforms and robust backend architectures, while also exploring how things work under the hood—from database synchronization to low-level parsing mechanics.
 
 **I love working on:**
-* 🌐 **Backend Architecture & API Design** (Spring Boot, REST APIs)
+* 🌐 **Web Development & Backend Engineering** (Spring Boot, REST APIs, Modern Web Tech)
 * 🖥️ **Desktop & Mobile Applications** (JavaFX, Android Studio)
-* 🐧 **Linux Administration & Core Systems** (Ubuntu, Dual-boot configurations, Shell scripting)
+* 🐧 **Linux Administration & Core Systems** (Ubuntu, Shell scripting, Dual-boot setups)
 * ⚙️ **Formal Languages & Compilation Theory** (Automata, Syntax Parsing)
 
 **Currently:**
 * 🎓 Finishing up my **Computer Science degree (L3)**.
-* 🛠️ Building out cross-platform synchronized ecosystem projects.
-* 📚 Deepening my knowledge in **Software Architecture, Design Patterns, and UML Modeling**.
+* 🛠️ Building full-stack web projects and cross-platform synchronized applications.
+* 📚 Deepening my knowledge in **Software Architecture, System Design, and UML Modeling**.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Languages
+### 💻 Languages & Core Web
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>&nbsp;
 </p>
 
-### 🌐 Frameworks & Application Dev
+### 🌐 Frameworks & Web Ecosystems
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>&nbsp;
 </p>
 
@@ -59,24 +60,25 @@ I'm a computer science student and an aspiring software engineer. I love explori
 
 ## 🚀 Current Projects
 
-* 🏪 **Supermarket Stock Management System** – Building an integrated ecosystem: a JavaFX desktop application for admin controls, a native Android app for mobile management, seamlessly synchronized via a Spring Boot backend and MySQL.
-* 📂 **File Organizer** – A clean desktop utility engineered to classify, sorting, and optimize file directory layouts effortlessly.
+* 🏪 **Supermarket Stock Management System** – Building an integrated ecosystem: a JavaFX desktop application for admin controls, a native Android app for mobile management, seamlessly synchronized via a Spring Boot backend and MySQL database.
+* 🌐 **Full-Stack Web Applications** – Developing responsive, data-driven web solutions focused on optimized client-server interactions.
+* 📂 **File Organizer** – A clean desktop utility engineered to classify, sort, and optimize file directory layouts effortlessly.
 
 ---
 
 ## 📚 Currently Learning
 
-* Advanced Software Architecture & System Design
-* Advanced Spring Data JPA & Synchronization Mechanisms
-* Compilation Tech (Writing compilers, lexical analysis, and syntax tree engineering)
+* Advanced Web Architectures & Frontend Integration
+* System Design & Advanced Spring Data JPA
+* Compilation Tech (Lexical analysis, parsing models, and grammar engineering)
 
 ---
 
 ## 🏆 Goals
 
-* Master full-scale enterprise system design patterns.
-* Contribute to open-source tools within the Java and Linux ecosystems.
-* Build robust, data-consistent distributed systems.
+* Build robust, scalable web and enterprise application architectures.
+* Master full-scale distributed systems and data consistency models.
+* Contribute to open-source developer tools within the web and Java ecosystems.
 
 ---
 
@@ -86,30 +88,16 @@ I'm a computer science student and an aspiring software engineer. I love explori
 class Developer:
     def __init__(self):
         self.name = "Teffah Adem Lahlou"
-        self.role = "Software Engineering Student & Backend Dev"
-        self.core_stack = ["Java", "Spring Boot", "Linux"]
+        self.role = "CS Student, Web & Backend Developer"
+        self.core_stack = ["Java", "Spring Boot", "JavaScript", "Linux"]
         self.hobbies = ["Manga Immersion", "System Tweaking"]
 
     def current_focus(self):
         return [
-            "Data Sync Architectures",
-            "UML Modeling & Clean Code",
+            "Full-Stack Web Architectures",
+            "Data Sync & API Engineering",
             "Compilation Theory"
         ]
 
 me = Developer()
-print("Always keeping the state synchronized! 🔄")
-<!--
-**Ademozi/Ademozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+print("Always keeping the frontend and backend synchronized! 🔄")
