@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Adem Lahlou Teffah 👋
+
+<p align="left">
+  <strong>💻 Backend Developer | ☕ Java & Spring Boot Enthusiast | 🐧 Linux & Systems Learner</strong>
+</p>
+
+<p align="left">
+  📍 Based in Algeria | 🚀 Passionate about architecture, scalable systems, and clean code.
+</p>
 
 <!--
 **Ademozi/Ademozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
