@@ -50,8 +50,8 @@ I'm a computer science student, web developer, and aspiring software engineer. I
 
 ## 🚀 Current Projects
 
-* 🏪 **Supermarket Stock Management System** – Building an integrated ecosystem: a JavaFX desktop application for admin controls, a native Android app for mobile management, seamlessly synchronized via a Spring Boot backend and MySQL database.
-* 🌐 **Full-Stack Web Applications** – Developing responsive, data-driven web solutions focused on optimized client-server interactions.
+* 🏪 **Supermarket Stock Management System with Online Ordering** – Building a full-stack ecosystem featuring a JavaFX desktop application, a native Android app for Online Ordering, and a Spring Boot backend with MySQL for real-time inventory and order management.
+* 🌐 **Full-Stack Web Applications** – Creating responsive web applications, including a charity platform for managing donations and connecting users with social causes.
 * 📂 **File Organizer** – A clean desktop utility engineered to classify, sort, and optimize file directory layouts effortlessly.
 
 ---
@@ -59,16 +59,18 @@ I'm a computer science student, web developer, and aspiring software engineer. I
 ## 📚 Currently Learning
 
 * Advanced Web Architectures & Frontend Integration
-* System Design & Advanced Spring Data JPA
-* Compilation Tech (Lexical analysis, parsing models, and grammar engineering)
+* Advanced Backend with Spring Boot
+* System Design
+* Linux and Operating Systems 
+
 
 ---
 
 ## 🏆 Goals
 
+* Become a high-level backend & software engineer
 * Build robust, scalable web and enterprise application architectures.
-* Master full-scale distributed systems and data consistency models.
-* Contribute to open-source developer tools within the web and Java ecosystems.
+* Contribute to open-source projects in the Java and web development ecosystems.
 
 ---
 
