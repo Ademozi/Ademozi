@@ -1,7 +1,7 @@
 # Hi there, I'm Teffah Adem Lahlou 👋
 
 <p align="left">
-  <strong>💻 Full-Stack & Backend Developer | ☕ Java & Spring Boot Enthusiast | 🐧 Linux & Systems Learner</strong>
+  <strong>💻 Full-Stack & Backend Developer | ☕ Software Engineering Student | 🐧 Linux & Systems Learner</strong>
 </p>
 
 <p align="left">
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a computer science student, web developer, and aspiring software engineer. I love building responsive web platforms and robust backend architectures, while also exploring how things work under the hood—from database synchronization to low-level parsing mechanics.
+I'm a Software Engineer student and a web developer. I love building responsive web platforms and robust backend architectures, while also exploring how things work under the hood—from database synchronization to low-level parsing mechanics.
 
 **I love working on:**
 * 🌐 **Web Development & Backend Engineering**
@@ -21,7 +21,8 @@ I'm a computer science student, web developer, and aspiring software engineer. I
 * ⚙️ **Formal Languages & Compilation Theory**
 
 **Currently:**
-* 🎓 Bachelor in **Computer Science degree **.
+* 🎓 Got a Bachelor in **Computer Science degree **.
+* 🎓 Pursuing a Master in **Sofware Engineering degree **.
 * 🏆 Preparing for technical competitions and Hackathons
 * 🛠️ Building full-stack web projects and cross-platform synchronized applications.
 * 📚 Expanding my knowledge in **Software Architecture, System Design, and UML Modeling**.
